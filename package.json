@@ -13,7 +13,7 @@
   "dependencies": {
     "antd": "^4.0.3",
     "autoprefixer": "^9.7.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "carousel": "0.0.3",
     "color": "^3.0.0",
     "enquire-js": "^0.2.1",
